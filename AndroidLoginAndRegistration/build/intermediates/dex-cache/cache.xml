@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_6536faf1f0fe5caad2f28eb7f5d61121c3383b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_a9783741e6f09f1e29929397d15048feb8c01394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5547b5fa118ccd51c4450442290d5080f2d79e45">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d20b85f5f2ac6a67226e10af70e8a315c1e0dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_999f8a399a0beb4760951902e78380dc500f02f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_3949643f6ece3fe5c7baf3812058ea90a1b72a03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_9a0c9115072e34fdf6de291c2fbc399c4e559218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_798706ec94603be681c262eddec9c2032046dd44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d2483e00339dd2464856d75397df01950c7f57c">
+        <dex dex="C:\laragon\www\141510208\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c612020d7ba2f90b1a053f9d7f507c82491331fb\classes.dex" />
+    </item>
+
+</items>

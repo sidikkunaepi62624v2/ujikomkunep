@@ -13,12 +13,12 @@ class tunjangan_pegawaim extends Model
 
     public function tunjangan()
     {
-    	return $this->belonsTo('App\tunjanganm','kode_tunjangan_id');
+    	return $this->belongsTo('App\tunjanganm','kode_tunjangan_id');
     }
 
     public function pegawai()
     {
-    	return $this->belonsTo('App\Pegawaim','pegawai_id');
+    	return $this->belongsTo('App\Pegawaim','pegawai_id');
     }
 
 	public function penggajian()

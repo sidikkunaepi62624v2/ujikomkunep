@@ -18,7 +18,7 @@ Route::resource('/Jabatan', 'jabatanc');
 Route::resource('/Golongan', 'golonganc');
 Route::resource('/Pegawai', 'pegawaicontroller');
 Route::resource('/Tunjangan', 'tunjanganc');
-Route::resource('/TunjanganPegawai', 'tunjanganpegawaicontroller');
+Route::resource('/TunjanganPegawai', 'tunjanganc');
 Route::group(['middleware' => ['api'],'prefix' => 'api'], function () {
     Route::post('register', 'APIController@register');
     Route::post('login', 'APIController@login');

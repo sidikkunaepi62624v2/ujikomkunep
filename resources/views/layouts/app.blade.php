@@ -47,6 +47,7 @@
                         <li><a href="{{ url('/Jabatan') }}">Jabatan</a></li>
                         <li><a href="{{ url('/Golongan') }}">Golongan</a></li>
                         <li><a href="{{ url('/Tunjangan') }}">Tunjangan</a></li>
+                        <li><a href="{{ url('/TunjanganPegawai') }}">Tunjangan Pegawai</a></li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->

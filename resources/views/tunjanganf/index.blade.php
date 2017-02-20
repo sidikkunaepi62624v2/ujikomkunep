@@ -30,8 +30,8 @@
                                 <tr>
                                     <td>{{ $i++}}</td>
                                     <td>{{ $data->kode_tunjangan }}</td>
-                                    <td>{{ $data->jabatanm->nama_jabatan }}</td>
-                                    <td>{{ $data->golonganm->nama_golongan }}</td>
+                                    <td>{{ $data->jabatan->nama_jabatan }}</td>
+                                    <td>{{ $data->golongan->nama_golongan }}</td>
                                     <td>{{ $data->status }}</td>
                                     <td>{{ $data->jumlah_anak }}</td>
                                     <td>{{ $data->besaran_uang }}</td>
